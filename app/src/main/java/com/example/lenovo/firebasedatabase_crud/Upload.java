@@ -28,7 +28,7 @@ public class Upload {
  {
      mName=name;
  }
- public String getmImageUrl()
+ public String getImageUrl()
  {
      return mImageUrl;
  }
